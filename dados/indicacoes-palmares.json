@@ -1,0 +1,3750 @@
+{
+  "origem": "Grupo Palmares Indica",
+  "profissionais": [
+    {
+      "nome": "Alex",
+      "categoria": "Aquecedor solar",
+      "telefones": [
+        "31 98554-1460"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Carlos",
+      "categoria": "Aquecedor solar",
+      "telefones": [
+        "99174-8005"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Chico",
+      "categoria": "Aquecedor solar",
+      "telefones": [
+        "97512-2604"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "José Carlos",
+      "categoria": "Aquecedor solar",
+      "telefones": [
+        "99111-5074"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Eduardo",
+      "categoria": "Alarmes",
+      "telefones": [
+        "98835-5733",
+        "3889-8133"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Gerry",
+      "categoria": "Alarmes",
+      "telefones": [
+        "31 99985059"
+      ],
+      "observacao": "Número com erro de digitação na lista original — conferir antes de ligar.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Alvino",
+      "categoria": "Ar-condicionado",
+      "telefones": [
+        "99644-9751"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "André",
+      "categoria": "Ar-condicionado",
+      "telefones": [
+        "998654-3881",
+        "99913-4991"
+      ],
+      "observacao": "Número com erro de digitação na lista original — conferir antes de ligar.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Breno",
+      "categoria": "Ar-condicionado",
+      "telefones": [
+        "98519-5307"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Felipe",
+      "categoria": "Ar-condicionado",
+      "telefones": [
+        "99459-6808"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Fernando",
+      "categoria": "Ar-condicionado",
+      "telefones": [
+        "98919-0300",
+        "98899-7644",
+        "3443-2177"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Gildo",
+      "categoria": "Ar-condicionado",
+      "telefones": [
+        "97567-2650"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Luís Carlos",
+      "categoria": "Ar-condicionado",
+      "telefones": [
+        "98021-6169"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Richard",
+      "categoria": "Ar-condicionado",
+      "telefones": [
+        "98493-0230"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Robson",
+      "categoria": "Ar-condicionado",
+      "telefones": [
+        "98516-4480"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Rogério",
+      "categoria": "Ar-condicionado",
+      "telefones": [
+        "99937-8102"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Thales",
+      "categoria": "Ar-condicionado",
+      "telefones": [
+        "98843-7944"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Zé Carlos",
+      "categoria": "Ar-condicionado",
+      "telefones": [
+        "99106-1095",
+        "99832-6805"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Wellington",
+      "categoria": "Ar-condicionado",
+      "telefones": [
+        "98407-6840"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Wender",
+      "categoria": "Ar-condicionado",
+      "telefones": [
+        "99644-8877"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Bag Bag Brasil",
+      "categoria": "Bolsas personalizadas",
+      "telefones": [
+        "3656-6881"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Karina (Meu Pedaço)",
+      "categoria": "Bolos e pães low carb",
+      "telefones": [
+        "98822-6960"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Alves",
+      "categoria": "Bombeiro hidráulico",
+      "telefones": [
+        "99310-0110"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Bill",
+      "categoria": "Bombeiro hidráulico",
+      "telefones": [
+        "99199-0787"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Davidson",
+      "categoria": "Bombeiro hidráulico",
+      "telefones": [
+        "99211-0550"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Felipe",
+      "categoria": "Bombeiro hidráulico",
+      "telefones": [
+        "99786-4085"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Gilmar",
+      "categoria": "Bombeiro hidráulico",
+      "telefones": [
+        "99767-2715"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Jaci",
+      "categoria": "Bombeiro hidráulico",
+      "telefones": [
+        "99108-1108"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Davi Hidráulico",
+      "categoria": "Bombeiro hidráulico",
+      "telefones": [
+        "98872-6542",
+        "3433-7079"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Jair",
+      "categoria": "Bombeiro hidráulico",
+      "telefones": [
+        "998672-6297"
+      ],
+      "observacao": "Número com erro de digitação na lista original — conferir antes de ligar.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Nicácio",
+      "categoria": "Bombeiro hidráulico",
+      "telefones": [
+        "98732-0975"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Raimundo",
+      "categoria": "Bombeiro hidráulico",
+      "telefones": [
+        "99976-8290"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Reinaldo",
+      "categoria": "Bombeiro hidráulico",
+      "telefones": [
+        "98681-3449"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Renato",
+      "categoria": "Bombeiro hidráulico",
+      "telefones": [
+        "99420-2992"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Sérgio",
+      "categoria": "Bombeiro hidráulico",
+      "telefones": [
+        "98841-697"
+      ],
+      "observacao": "Número com erro de digitação na lista original — conferir antes de ligar.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Eliane",
+      "categoria": "Box e espelhos",
+      "telefones": [
+        "98402-6817"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Dezinho",
+      "categoria": "Box e espelhos",
+      "telefones": [
+        "99949-7160"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Thiago Noy",
+      "categoria": "Box e espelhos",
+      "telefones": [
+        "99646-7943"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Evandro",
+      "categoria": "Calhas e rufos",
+      "telefones": [
+        "99194-3928"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Calhas BH",
+      "categoria": "Calhas e rufos",
+      "telefones": [
+        "97300-9922"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Alfredo",
+      "categoria": "Câmeras (CFTV)",
+      "telefones": [
+        "99976-4202"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "André",
+      "categoria": "Câmeras (CFTV)",
+      "telefones": [
+        "99968-1529"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Diogo",
+      "categoria": "Câmeras (CFTV)",
+      "telefones": [
+        "98849-2947"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Fernando",
+      "categoria": "Câmeras (CFTV)",
+      "telefones": [
+        "98857-2551"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Marcos",
+      "categoria": "Câmeras (CFTV)",
+      "telefones": [
+        "98529-0790"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Pedro",
+      "categoria": "Câmeras (CFTV)",
+      "telefones": [
+        "98944-2576"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Serginho",
+      "categoria": "Câmeras (CFTV)",
+      "telefones": [
+        "98829-8158"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Washington",
+      "categoria": "Câmeras (CFTV)",
+      "telefones": [
+        "98538-6636"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Adilson",
+      "categoria": "Capoteiro e estofador",
+      "telefones": [
+        "99984-9197",
+        "3426-0154"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Ademar",
+      "categoria": "Capoteiro e estofador",
+      "telefones": [
+        "98713-4870"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Alex",
+      "categoria": "Capoteiro e estofador",
+      "telefones": [
+        "97588-7441"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Anderson",
+      "categoria": "Capoteiro e estofador",
+      "telefones": [
+        "98659-8058"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Antonio",
+      "categoria": "Capoteiro e estofador",
+      "telefones": [
+        "98646-2561",
+        "99995-3652"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Araújo",
+      "categoria": "Capoteiro e estofador",
+      "telefones": [
+        "98886-8910",
+        "3428-2091"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Bruno",
+      "categoria": "Capoteiro e estofador",
+      "telefones": [
+        "98807-2754"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Denilson Capoteiro",
+      "categoria": "Capoteiro e estofador",
+      "telefones": [
+        "31 9901-1431"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Gilberto",
+      "categoria": "Capoteiro e estofador",
+      "telefones": [
+        "99665-8463"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "José",
+      "categoria": "Capoteiro e estofador",
+      "telefones": [
+        "98982-3978",
+        "99176-4904"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Nei",
+      "categoria": "Capoteiro e estofador",
+      "telefones": [
+        "97568-5499"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Robson",
+      "categoria": "Capoteiro e estofador",
+      "telefones": [
+        "98869-5677",
+        "3498-3149"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Oswaldo",
+      "categoria": "Capoteiro e estofador",
+      "telefones": [
+        "98865-6367"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Rogério",
+      "categoria": "Capoteiro e estofador",
+      "telefones": [
+        "99142-3858"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Edy (Corrimão Inox)",
+      "categoria": "Corrimão inox",
+      "telefones": [
+        "999628-0001"
+      ],
+      "observacao": "Número com erro de digitação na lista original — conferir antes de ligar.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Alex",
+      "categoria": "Corrimão inox",
+      "telefones": [
+        "31 98554-1460"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "André",
+      "categoria": "Cartuchos e toners",
+      "telefones": [
+        "98780-4150"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Glaucia",
+      "categoria": "Cartuchos e toners",
+      "telefones": [
+        "98660-9500"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Roney",
+      "categoria": "Cartuchos e toners",
+      "telefones": [
+        "3373-7991"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Stop",
+      "categoria": "Cartuchos e toners",
+      "telefones": [
+        "97573-5125",
+        "3498-0606"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Thiago",
+      "categoria": "Cartuchos e toners",
+      "telefones": [
+        "98497-8536"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Matson (carroceiro)",
+      "categoria": "Carretos e carroceiro",
+      "telefones": [
+        "3445-3602"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Wellington Rock Carretos",
+      "categoria": "Carretos e carroceiro",
+      "telefones": [
+        "31 98490-6770"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Antonio",
+      "categoria": "Carretos e carroceiro",
+      "telefones": [
+        "99979-3741"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Danilinho",
+      "categoria": "Carretos e carroceiro",
+      "telefones": [
+        "98826-7760"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Etê",
+      "categoria": "Carretos e carroceiro",
+      "telefones": [
+        "98427-6903"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Levi",
+      "categoria": "Carretos e carroceiro",
+      "telefones": [
+        "98262-6055"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Leandro Barato",
+      "categoria": "Carretos e carroceiro",
+      "telefones": [
+        "97506-5440"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Marcelo",
+      "categoria": "Carretos e carroceiro",
+      "telefones": [
+        "99772-7323"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Roberto",
+      "categoria": "Carretos e carroceiro",
+      "telefones": [
+        "98683-8361"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Serginho",
+      "categoria": "Carretos e carroceiro",
+      "telefones": [
+        "98836-3098"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Tony",
+      "categoria": "Carretos e carroceiro",
+      "telefones": [
+        "98598-2011"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Whashington Saveiro",
+      "categoria": "Carretos e carroceiro",
+      "telefones": [
+        "31 9314-4456"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Júnior",
+      "categoria": "Cerca elétrica",
+      "telefones": [
+        "98855-8918",
+        "3023-9454"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Serginho",
+      "categoria": "Cerca elétrica",
+      "telefones": [
+        "98829-8158"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Valdecir",
+      "categoria": "Certificado digital",
+      "telefones": [
+        "98822-1288",
+        "99629-4890",
+        "3140-0630"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Andréia (Box Of Dreams)",
+      "categoria": "Cestas de café",
+      "telefones": [
+        "31 99420-0732"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Antony",
+      "categoria": "Cestas de café",
+      "telefones": [
+        "31 99963-1810"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Luciana",
+      "categoria": "Cestas de café",
+      "telefones": [
+        "31 98735-0398"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Liu (Chaveiro Ipiranga)",
+      "categoria": "Chaveiro",
+      "telefones": [
+        "99978-3687",
+        "3426-4829"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Mariana (Chaveiro 24 Horas)",
+      "categoria": "Chaveiro",
+      "telefones": [
+        "98782-3827"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Chaveiro Renascença",
+      "categoria": "Chaveiro",
+      "telefones": [
+        "3421-8212",
+        "99103-4745"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Tetra Chave",
+      "categoria": "Chaveiro",
+      "telefones": [
+        "3453-8356"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Carro Móvel Rua Áqua",
+      "categoria": "Chaveiro",
+      "telefones": [
+        "3088-2389",
+        "99905-5324",
+        "98595-0194"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Consertos",
+      "categoria": "Conserto de cadeiras",
+      "telefones": [
+        "99870-9964",
+        "99454-0055",
+        "2526-6132"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Deia",
+      "categoria": "Conserto de cadeiras",
+      "telefones": [
+        "99142-3858"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Gustavo",
+      "categoria": "Conserto de celular",
+      "telefones": [
+        "99464-7550"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Bispo",
+      "categoria": "Conserto de fogões",
+      "telefones": [
+        "99652-2597"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Edson",
+      "categoria": "Conserto de fogões",
+      "telefones": [
+        "97124-5519"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Elias",
+      "categoria": "Conserto de fogões",
+      "telefones": [
+        "99643-1991",
+        "3427-0891"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "João",
+      "categoria": "Conserto de fogões",
+      "telefones": [
+        "99693-7407",
+        "3223-2822"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Rogério",
+      "categoria": "Conserto de fogões",
+      "telefones": [
+        "98779-5452",
+        "3383-7593",
+        "3383-8282"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Vilmar",
+      "categoria": "Conserto de fogões",
+      "telefones": [
+        "98475-8877"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Nelson",
+      "categoria": "Conserto de geladeiras",
+      "telefones": [
+        "99759-5944"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Wilson",
+      "categoria": "Conserto de geladeiras",
+      "telefones": [
+        "99665-4750"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Wanderson",
+      "categoria": "Conserto de geladeiras",
+      "telefones": [
+        "98667-1458"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Rejane",
+      "categoria": "Conserto de geladeiras",
+      "telefones": [
+        "98684-5226"
+      ],
+      "observacao": "Conserto de freezer.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Alexandre",
+      "categoria": "Conserto de máquina de lavar",
+      "telefones": [
+        "99917-1521"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Edson",
+      "categoria": "Conserto de máquina de lavar",
+      "telefones": [
+        "99911-5307"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Euler",
+      "categoria": "Conserto de máquina de lavar",
+      "telefones": [
+        "98730-4732"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Eustaquio",
+      "categoria": "Conserto de máquina de lavar",
+      "telefones": [
+        "998783-8351"
+      ],
+      "observacao": "Número com erro de digitação na lista original — conferir antes de ligar.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Sr. Geraldo",
+      "categoria": "Conserto de máquina de lavar",
+      "telefones": [
+        "99993-9502",
+        "3393-9502"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "João Celio",
+      "categoria": "Conserto de máquina de lavar",
+      "telefones": [
+        "99147-5941"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Joel",
+      "categoria": "Conserto de máquina de lavar",
+      "telefones": [
+        "98861-9904"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Marcio",
+      "categoria": "Conserto de máquina de lavar",
+      "telefones": [
+        "98983-8523"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Rafael",
+      "categoria": "Conserto de máquina de lavar",
+      "telefones": [
+        "97362-1905"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Tadeu",
+      "categoria": "Conserto de máquina de lavar",
+      "telefones": [
+        "99110-9230"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Wanderley",
+      "categoria": "Conserto de máquina de lavar",
+      "telefones": [
+        "99628-7444"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Sérgio",
+      "categoria": "Conserto de toca-discos de vinil",
+      "telefones": [
+        "31 9902-5243"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Excelência",
+      "categoria": "Construção e reforma",
+      "telefones": [
+        "31 3474-8588",
+        "31 99642-7902"
+      ],
+      "observacao": "Soluções para construção e reforma.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Alex Brastembel",
+      "categoria": "Conserto de micro-ondas",
+      "telefones": [
+        "99195-7874"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Sérgio",
+      "categoria": "Conserto de micro-ondas",
+      "telefones": [
+        "99804-5620",
+        "3879-6715"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Cristina",
+      "categoria": "Cortinas",
+      "telefones": [
+        "98782-3786"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Casarão (Elson)",
+      "categoria": "Cortinas",
+      "telefones": [
+        "99668-1549"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Dalva",
+      "categoria": "Cortinas",
+      "telefones": [
+        "99968-7991"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Elcio",
+      "categoria": "Cortinas",
+      "telefones": [
+        "98668-1549"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Helem",
+      "categoria": "Cortinas",
+      "telefones": [
+        "98727-1869"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Marcio",
+      "categoria": "Cortinas",
+      "telefones": [
+        "99137-1202",
+        "3386-1773"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Renato Cortinas",
+      "categoria": "Cortinas",
+      "telefones": [
+        "98415-3079"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "André",
+      "categoria": "Churrasqueiros",
+      "telefones": [
+        "99648-3177"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Lilio",
+      "categoria": "Churrasqueiros",
+      "telefones": [
+        "99769-2383",
+        "99841-2669"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Geraldo",
+      "categoria": "Churrasqueiros",
+      "telefones": [
+        "98459-2895"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Ana",
+      "categoria": "Costureira",
+      "telefones": [
+        "98870-3489"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Ana",
+      "categoria": "Costureira",
+      "telefones": [
+        "999310-1684"
+      ],
+      "observacao": "Número com erro de digitação na lista original — conferir antes de ligar.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Cleonice",
+      "categoria": "Costureira",
+      "telefones": [
+        "98525-9590"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Elizangela",
+      "categoria": "Costureira",
+      "telefones": [
+        "99996-8235"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Glorinha",
+      "categoria": "Costureira",
+      "telefones": [
+        "99902-4903"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Kaka",
+      "categoria": "Costureira",
+      "telefones": [
+        "99511-9500"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Marli",
+      "categoria": "Costureira",
+      "telefones": [
+        "3426-3508"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Dna. Marlene",
+      "categoria": "Costureira",
+      "telefones": [
+        "31 98985-3406"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Naná",
+      "categoria": "Costureira",
+      "telefones": [
+        "98621-7089",
+        "3324-1744"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Nazinha",
+      "categoria": "Costureira",
+      "telefones": [
+        "9181-7891",
+        "3037-4691"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Rinilde",
+      "categoria": "Costureira",
+      "telefones": [
+        "99968-1529"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Sônia",
+      "categoria": "Costureira",
+      "telefones": [
+        "38 99810-8707"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Luciana Colares",
+      "categoria": "Cosméticos",
+      "telefones": [
+        "99212-0941"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Leo",
+      "categoria": "Contador",
+      "telefones": [
+        "99929-6940"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "New Cont",
+      "categoria": "Contador",
+      "telefones": [
+        "98889-9082",
+        "99330-2087",
+        "2514-1075"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Wilson",
+      "categoria": "Contador",
+      "telefones": [
+        "99803-1332"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Eduardo",
+      "categoria": "Computador e rede (manutenção)",
+      "telefones": [
+        "31 98435-4817"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Leonardo BNI",
+      "categoria": "Computador e rede (manutenção)",
+      "telefones": [
+        "31 9555-8380"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Master Informática",
+      "categoria": "Computador e rede (manutenção)",
+      "telefones": [
+        "31 98849-6196"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Yuri",
+      "categoria": "Computador e rede (manutenção)",
+      "telefones": [
+        "31 98578-1531"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Redes TI Infotop",
+      "categoria": "Computador e rede (manutenção)",
+      "telefones": [
+        "31 2515-8110"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Carlos (Studio Digital)",
+      "categoria": "Computador e rede (manutenção)",
+      "telefones": [
+        "31 99407-8288"
+      ],
+      "observacao": "Marketing digital.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "André",
+      "categoria": "Dedetização e desentupidora",
+      "telefones": [
+        "98582-5692"
+      ],
+      "observacao": "Dedetização.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Carlos Brini",
+      "categoria": "Dedetização e desentupidora",
+      "telefones": [
+        "31 99773-8582"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Ailton (Desentupidora Rotatex)",
+      "categoria": "Dedetização e desentupidora",
+      "telefones": [
+        "2512-2551",
+        "98330-1763"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Sandro (Papa Léguas)",
+      "categoria": "Dedetização e desentupidora",
+      "telefones": [
+        "31 3022-4179"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Dra. Clarissa Abud",
+      "categoria": "Dentista e ortodontia",
+      "telefones": [
+        "31 9977-4741"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Dra. Lara",
+      "categoria": "Dentista e ortodontia",
+      "telefones": [
+        "31 98411-4345"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Dra. Vânia Beatriz",
+      "categoria": "Dentista e ortodontia",
+      "telefones": [
+        "31 99645-6848"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "ConstruPonto",
+      "categoria": "Depósito de material de construção",
+      "telefones": [
+        "98452-3394"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Depósito do Francisco",
+      "categoria": "Depósito de material de construção",
+      "telefones": [
+        "3425-7248"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Adair",
+      "categoria": "Eletricista",
+      "telefones": [
+        "98983-6580"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Ailton",
+      "categoria": "Eletricista",
+      "telefones": [
+        "99818-1070",
+        "999381-2669"
+      ],
+      "observacao": "Número com erro de digitação na lista original — conferir antes de ligar.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "André",
+      "categoria": "Eletricista",
+      "telefones": [
+        "99913-4993",
+        "98654-3881"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Dudu",
+      "categoria": "Eletricista",
+      "telefones": [
+        "99286-8688"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Elias Faísca",
+      "categoria": "Eletricista",
+      "telefones": [
+        "98599-0961"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Eude",
+      "categoria": "Eletricista",
+      "telefones": [
+        "99748-9616"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Geraldo",
+      "categoria": "Eletricista",
+      "telefones": [
+        "99254-0441"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Guilherme",
+      "categoria": "Eletricista",
+      "telefones": [
+        "99972-4036"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Gumercindo",
+      "categoria": "Eletricista",
+      "telefones": [
+        "99952-4016"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Jaime",
+      "categoria": "Eletricista",
+      "telefones": [
+        "99197-9756"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Leo",
+      "categoria": "Eletricista",
+      "telefones": [
+        "99288-5669"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Leonardo",
+      "categoria": "Eletricista",
+      "telefones": [
+        "99620-0363"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Luciano",
+      "categoria": "Eletricista",
+      "telefones": [
+        "31 9395-1235"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Mauro",
+      "categoria": "Eletricista",
+      "telefones": [
+        "99188-7906"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Paulo",
+      "categoria": "Eletricista",
+      "telefones": [
+        "97166-4577"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Sabonete",
+      "categoria": "Eletricista",
+      "telefones": [
+        "98628-1258"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Serginho",
+      "categoria": "Eletricista",
+      "telefones": [
+        "98829-8158"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Thiago",
+      "categoria": "Eletricista",
+      "telefones": [
+        "98667-5606",
+        "99532-6250"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Waguim",
+      "categoria": "Eletricista",
+      "telefones": [
+        "99866-0983"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "ATMBH Eletrônica e Informática",
+      "categoria": "Eletroeletrônicos",
+      "telefones": [
+        "31 99408-9877"
+      ],
+      "observacao": "Conserto de TV LG.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Adriana",
+      "categoria": "Faxineira",
+      "telefones": [
+        "99361-8288"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Carla",
+      "categoria": "Faxineira",
+      "telefones": [
+        "99833-0103"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Cléo",
+      "categoria": "Faxineira",
+      "telefones": [
+        "98675-2038"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Denise",
+      "categoria": "Faxineira",
+      "telefones": [
+        "992003-3180"
+      ],
+      "observacao": "Número com erro de digitação na lista original — conferir antes de ligar.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Dri/Ju",
+      "categoria": "Faxineira",
+      "telefones": [
+        "99689-9643"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Flávia",
+      "categoria": "Faxineira",
+      "telefones": [
+        "98857-2649"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Ilsa",
+      "categoria": "Faxineira",
+      "telefones": [
+        "99280-7424"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Luiza",
+      "categoria": "Faxineira",
+      "telefones": [
+        "9332-1190",
+        "3493-9304"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Néia",
+      "categoria": "Faxineira",
+      "telefones": [
+        "99705-7379"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Raissa",
+      "categoria": "Faxineira",
+      "telefones": [
+        "98266-3010"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Rosângela",
+      "categoria": "Faxineira",
+      "telefones": [
+        "98026-9510",
+        "9849110648",
+        "3487-2609"
+      ],
+      "observacao": "Número com erro de digitação na lista original — conferir antes de ligar.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Rose",
+      "categoria": "Faxineira",
+      "telefones": [
+        "97140-7743"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Tina",
+      "categoria": "Faxineira",
+      "telefones": [
+        "98664-1227"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Vanda",
+      "categoria": "Faxineira",
+      "telefones": [
+        "97554-0771"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Anilson",
+      "categoria": "Gesseiro",
+      "telefones": [
+        "98897-8225",
+        "98705-2535"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Anisio",
+      "categoria": "Gesseiro",
+      "telefones": [
+        "98897-8225"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Franklin",
+      "categoria": "Gesseiro",
+      "telefones": [
+        "99491-8115"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Júlio",
+      "categoria": "Gesseiro",
+      "telefones": [
+        "99974-7965"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Nivaldo",
+      "categoria": "Gesseiro",
+      "telefones": [
+        "99854-8950"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Paulo",
+      "categoria": "Gesseiro",
+      "telefones": [
+        "98553-2265"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Rafael (filho do Celso)",
+      "categoria": "Gesseiro",
+      "telefones": [
+        "31 98855-0875"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Vinicius",
+      "categoria": "Gesseiro",
+      "telefones": [
+        "99797-6435"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Amanda",
+      "categoria": "Impermeabilização",
+      "telefones": [
+        "99440-8081"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Anderson",
+      "categoria": "Impermeabilização",
+      "telefones": [
+        "98733-8403"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "André",
+      "categoria": "Impermeabilização",
+      "telefones": [
+        "98654-3881",
+        "99913-4993"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Felipe",
+      "categoria": "Impermeabilização",
+      "telefones": [
+        "99694-1010"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Juliano",
+      "categoria": "Impermeabilização",
+      "telefones": [
+        "98418-0294"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Emevê",
+      "categoria": "Impermeabilização",
+      "telefones": [
+        "99855-1209"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Lazarotti",
+      "categoria": "Impermeabilização",
+      "telefones": [
+        "99694-1010"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Marcio",
+      "categoria": "Impermeabilização",
+      "telefones": [
+        "98605-2967"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Maristela",
+      "categoria": "Impermeabilização",
+      "telefones": [
+        "98580-6033",
+        "3426-1040"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Paulo",
+      "categoria": "Impermeabilização",
+      "telefones": [
+        "98727-9361"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Victor Santos",
+      "categoria": "Impermeabilização",
+      "telefones": [
+        "99898-5621"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Lucio",
+      "categoria": "Interfone",
+      "telefones": [
+        "99213-3392",
+        "3468-4403"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Gleidson",
+      "categoria": "Interfone",
+      "telefones": [],
+      "observacao": "Sem telefone na lista original.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Serginho",
+      "categoria": "Interfone",
+      "telefones": [
+        "98829-8158"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Cardoso",
+      "categoria": "Jardineiro",
+      "telefones": [
+        "98843-3989"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Gilmar",
+      "categoria": "Jardineiro",
+      "telefones": [
+        "99976-1101",
+        "3378-4521"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Guilherme",
+      "categoria": "Jardineiro",
+      "telefones": [
+        "98670-1622"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Flávio",
+      "categoria": "Jardineiro",
+      "telefones": [
+        "98765-5393"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Romeu",
+      "categoria": "Jardineiro",
+      "telefones": [
+        "97104-4360"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Testinha",
+      "categoria": "Jardineiro",
+      "telefones": [
+        "99102-2756"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Zé Caetano",
+      "categoria": "Jardineiro",
+      "telefones": [
+        "99874-1089"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Carlos",
+      "categoria": "Lanterneiro",
+      "telefones": [
+        "99981-1029"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Nenem",
+      "categoria": "Lanterneiro",
+      "telefones": [
+        "98809-1377",
+        "99322-2232"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Laticínios Marieta",
+      "categoria": "Laticínios",
+      "telefones": [
+        "31 99801-8744"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Tapetes Clean",
+      "categoria": "Lavagem de tapetes e cortinas",
+      "telefones": [
+        "99882-2782"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Lembranças Encantada",
+      "categoria": "Lembranças e personalizados",
+      "telefones": [
+        "31 98834-6924"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Cleusa",
+      "categoria": "Manicure",
+      "telefones": [
+        "99784-9671"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Fernanda",
+      "categoria": "Manicure",
+      "telefones": [
+        "98264-0196"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Linda",
+      "categoria": "Manicure",
+      "telefones": [
+        "99199-9693"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Neia",
+      "categoria": "Manicure",
+      "telefones": [
+        "99376-0812"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Reijane",
+      "categoria": "Manicure",
+      "telefones": [
+        "99895-7214"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Silvana",
+      "categoria": "Manicure",
+      "telefones": [
+        "98934-7283"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Vania",
+      "categoria": "Manicure",
+      "telefones": [
+        "98687-4109"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Vera",
+      "categoria": "Manutenção de esteira e TV",
+      "telefones": [
+        "99868-2005"
+      ],
+      "observacao": "Manutenção de esteira.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "ATMBH Eletrônica",
+      "categoria": "Manutenção de esteira e TV",
+      "telefones": [
+        "31 99408-9877"
+      ],
+      "observacao": "Manutenção de TV.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Sérgio",
+      "categoria": "Manutenção de esteira e TV",
+      "telefones": [
+        "99902-5243"
+      ],
+      "observacao": "Manutenção de TV.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Adriano",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "99157-5996"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "André",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "98832-9692"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Beto",
+      "categoria": "Marceneiro",
+      "telefones": [],
+      "observacao": "Sem telefone na lista original.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Branco",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "99922-1531"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Bruno",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "98678-3561"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Bruno Arcanjo",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "98917-5889"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Deia",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "99142-3858"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Evaldo",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "99234-1140"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Geraldo",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "99541-6653"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Jhones",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "99954-0861"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Joice (CriaMobile)",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "31 99107-4577"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Kildare",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "98551-3211"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Lica",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "98885-7841"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Lindauro",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "99131-5980"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "M Arte Móveis",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "98831-7894",
+        "3426-7116"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Marcio",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "99913-0988"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Rodrigo (Classe A)",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "99697-5175"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Rodrigo",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "99919-9559"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Sérgio",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "99445-8998"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Toni",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "3625-9939"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Warney",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "99164-4437"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Wanderson",
+      "categoria": "Marceneiro",
+      "telefones": [
+        "98831-7894"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Geraldo",
+      "categoria": "Marmoraria",
+      "telefones": [
+        "99465-6689"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Lucas",
+      "categoria": "Marmoraria",
+      "telefones": [
+        "99944-7919"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Mauro",
+      "categoria": "Marmoraria",
+      "telefones": [
+        "98781-3220"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Monte Sião",
+      "categoria": "Marmoraria",
+      "telefones": [
+        "3426-1987"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Montreal",
+      "categoria": "Marmoraria",
+      "telefones": [
+        "99981-1357",
+        "99660-1357"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Daniel",
+      "categoria": "Mecânico",
+      "telefones": [
+        "98818-1716"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "David",
+      "categoria": "Mecânico",
+      "telefones": [
+        "99976-0135"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Tim",
+      "categoria": "Mecânico",
+      "telefones": [
+        "99385-7344",
+        "3424-5432"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Vavá",
+      "categoria": "Mecânico",
+      "telefones": [
+        "98632-3727"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Israel",
+      "categoria": "Montagem de móveis",
+      "telefones": [
+        "31 8593-5782"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Wanderson",
+      "categoria": "Montagem de móveis",
+      "telefones": [
+        "98581-0814"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Willian",
+      "categoria": "Papel de parede",
+      "telefones": [
+        "31 9880-0541"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Antonio",
+      "categoria": "Pedreiro",
+      "telefones": [
+        "99714-2631",
+        "98312-5101"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Bodin",
+      "categoria": "Pedreiro",
+      "telefones": [
+        "998575-7492"
+      ],
+      "observacao": "Número com erro de digitação na lista original — conferir antes de ligar.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "César",
+      "categoria": "Pedreiro",
+      "telefones": [
+        "97127-3338"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Claudio",
+      "categoria": "Pedreiro",
+      "telefones": [
+        "998527-3892"
+      ],
+      "observacao": "Número com erro de digitação na lista original — conferir antes de ligar.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Joseph",
+      "categoria": "Pedreiro",
+      "telefones": [
+        "98365-3738"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Julio César",
+      "categoria": "Pedreiro",
+      "telefones": [
+        "98888-7603"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Matheus",
+      "categoria": "Pedreiro",
+      "telefones": [
+        "98040-0010"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Reginaldo",
+      "categoria": "Pedreiro",
+      "telefones": [
+        "98247-7285"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Ronaldo",
+      "categoria": "Pedreiro",
+      "telefones": [
+        "98484-8559"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Will",
+      "categoria": "Pedreiro",
+      "telefones": [
+        "99285-3747"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Pet Anjinho de Patas",
+      "categoria": "Pet shop",
+      "telefones": [
+        "31 98478-3398"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Pet Sonho de Cachorro",
+      "categoria": "Pet shop",
+      "telefones": [
+        "31 98709-1689"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Pet Shop dos Sonhos",
+      "categoria": "Pet shop",
+      "telefones": [
+        "31 98374-2319"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Átila",
+      "categoria": "Pintor",
+      "telefones": [
+        "98386-7813"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Beto",
+      "categoria": "Pintor",
+      "telefones": [
+        "99756-0834"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Carlos",
+      "categoria": "Pintor",
+      "telefones": [
+        "98233-5166"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Cláudio",
+      "categoria": "Pintor",
+      "telefones": [
+        "98418-3733"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Eder",
+      "categoria": "Pintor",
+      "telefones": [
+        "98645-5245",
+        "99663-4373",
+        "998452-7684"
+      ],
+      "observacao": "Número com erro de digitação na lista original — conferir antes de ligar.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Edson",
+      "categoria": "Pintor",
+      "telefones": [
+        "98427-6903"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Eli",
+      "categoria": "Pintor",
+      "telefones": [
+        "98453-2054",
+        "98825-6653"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Fausto",
+      "categoria": "Pintor",
+      "telefones": [
+        "99372-8531"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Guto",
+      "categoria": "Pintor",
+      "telefones": [
+        "98637-7573"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "João",
+      "categoria": "Pintor",
+      "telefones": [
+        "99963-7037"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Renato",
+      "categoria": "Pintor",
+      "telefones": [
+        "99452-5066"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Roberto",
+      "categoria": "Pintor",
+      "telefones": [
+        "99657-5119"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Rui",
+      "categoria": "Pintor",
+      "telefones": [
+        "98907-7666"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Samuel",
+      "categoria": "Pintor",
+      "telefones": [
+        "98721-7028"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Toninho",
+      "categoria": "Pintor",
+      "telefones": [
+        "999783-7842",
+        "3426-1727"
+      ],
+      "observacao": "Número com erro de digitação na lista original — conferir antes de ligar.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Henrique",
+      "categoria": "Plotagens",
+      "telefones": [
+        "99527-6483"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Hugo",
+      "categoria": "Plotagens",
+      "telefones": [
+        "31 9279-7041"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Edelmo",
+      "categoria": "Portão eletrônico",
+      "telefones": [
+        "99982-7945"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Junio",
+      "categoria": "Portão eletrônico",
+      "telefones": [
+        "99735-6943"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Lucio",
+      "categoria": "Portão eletrônico",
+      "telefones": [
+        "99429-9981"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Luciano",
+      "categoria": "Portão eletrônico",
+      "telefones": [
+        "31 9395-1235"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Matheus",
+      "categoria": "Portão eletrônico",
+      "telefones": [
+        "97553-4734"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Marden",
+      "categoria": "Portão eletrônico",
+      "telefones": [
+        "99918-7763"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Serginho",
+      "categoria": "Portão eletrônico",
+      "telefones": [
+        "98829-8158"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Wagner Vieira",
+      "categoria": "Portão eletrônico",
+      "telefones": [
+        "98447-9493"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Edna",
+      "categoria": "Salgados",
+      "telefones": [
+        "3442-3971",
+        "3789-3971"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Eliana",
+      "categoria": "Salgados",
+      "telefones": [
+        "99835-0419"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Lilian",
+      "categoria": "Salgados",
+      "telefones": [
+        "98869-4966"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Selma",
+      "categoria": "Salgados",
+      "telefones": [
+        "98437-0349"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Tina",
+      "categoria": "Salgados",
+      "telefones": [
+        "99779-4276",
+        "3424-7399"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Vidoti",
+      "categoria": "Salgados",
+      "telefones": [
+        "99114-6949"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Deyse Ribeiro",
+      "categoria": "Salões e espaços de beleza",
+      "telefones": [
+        "3426-5786",
+        "3426-5294",
+        "99245-3878"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Fabrícia Abreu",
+      "categoria": "Salões e espaços de beleza",
+      "telefones": [
+        "98722-4045"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Socila Palmares",
+      "categoria": "Salões e espaços de beleza",
+      "telefones": [
+        "2516-5666",
+        "31 99309-1913"
+      ],
+      "observacao": "O celular é o WhatsApp.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Alan",
+      "categoria": "Serralheiro",
+      "telefones": [
+        "98593-9806"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Anisio",
+      "categoria": "Serralheiro",
+      "telefones": [
+        "98910-4680",
+        "3426-3315"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Denner",
+      "categoria": "Serralheiro",
+      "telefones": [
+        "99908-9899",
+        "98601-2369",
+        "3447-0343"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Flávio",
+      "categoria": "Serralheiro",
+      "telefones": [
+        "99896-8949"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Geovane",
+      "categoria": "Serralheiro",
+      "telefones": [
+        "98432-8788"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Giovani",
+      "categoria": "Serralheiro",
+      "telefones": [
+        "98762-7489"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Gilson",
+      "categoria": "Serralheiro",
+      "telefones": [
+        "98452-4922"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "João Araripe",
+      "categoria": "Serralheiro",
+      "telefones": [
+        "3424-2657"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Luiz Fernando",
+      "categoria": "Serralheiro",
+      "telefones": [
+        "98869-1453"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Marquinhos",
+      "categoria": "Serralheiro",
+      "telefones": [
+        "99204-7496",
+        "2526-4495"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Ronaldo",
+      "categoria": "Serralheiro",
+      "telefones": [
+        "99807-2326"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Serginho",
+      "categoria": "Serralheiro",
+      "telefones": [
+        "98829-8158"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Vitor",
+      "categoria": "Serralheiro",
+      "telefones": [
+        "98909-5636"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Wagner",
+      "categoria": "Serralheiro",
+      "telefones": [
+        "98447-9493"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Babi",
+      "categoria": "Sobrancelhas",
+      "telefones": [
+        "98946-8471"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Cláudia",
+      "categoria": "Sobrancelhas",
+      "telefones": [
+        "98713-4978"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Jhuly",
+      "categoria": "Sobrancelhas",
+      "telefones": [
+        "999897-6074"
+      ],
+      "observacao": "Número com erro de digitação na lista original — conferir antes de ligar.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Lunica",
+      "categoria": "Sobrancelhas",
+      "telefones": [
+        "3653-6414"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Samantha",
+      "categoria": "Sobrancelhas",
+      "telefones": [
+        "99173-9097"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Thamires",
+      "categoria": "Sobrancelhas",
+      "telefones": [
+        "99383-4347"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Socila Palmares",
+      "categoria": "Sobrancelhas",
+      "telefones": [
+        "2516-5666",
+        "31 99309-1913"
+      ],
+      "observacao": "O celular é o WhatsApp.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Fabrício",
+      "categoria": "Telas de proteção",
+      "telefones": [
+        "98827-2315"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Jefferson",
+      "categoria": "Telas de proteção",
+      "telefones": [
+        "99717-4688"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Tainara",
+      "categoria": "Telas de proteção",
+      "telefones": [
+        "98480-4455"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Telas de Proteção",
+      "categoria": "Telas de proteção",
+      "telefones": [
+        "99972-9910"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Vicente",
+      "categoria": "Telas de proteção",
+      "telefones": [
+        "98690-9274"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "BH Redes",
+      "categoria": "Telas de proteção",
+      "telefones": [
+        "97561-3836"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Joaquim",
+      "categoria": "Telhados",
+      "telefones": [
+        "97124-7623",
+        "98924-7623"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Jucelio",
+      "categoria": "Telhados",
+      "telefones": [
+        "99962-0067"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Osvaldo",
+      "categoria": "Telhados",
+      "telefones": [
+        "98844-0505"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Paulo",
+      "categoria": "Telhados",
+      "telefones": [
+        "99944-8706"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Tony",
+      "categoria": "Telhados",
+      "telefones": [
+        "99145-4029"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "São Gabriel",
+      "categoria": "Transportadora",
+      "telefones": [
+        "31 9551-6812"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Alex",
+      "categoria": "Vidraçaria",
+      "telefones": [
+        "98543-6510"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Alexandre",
+      "categoria": "Vidraçaria",
+      "telefones": [
+        "98866-1365"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Bernardino",
+      "categoria": "Vidraçaria",
+      "telefones": [
+        "98820-2747",
+        "3442-2747"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Eliane",
+      "categoria": "Vidraçaria",
+      "telefones": [
+        "98402-6817",
+        "98402-6819"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Erci",
+      "categoria": "Vidraçaria",
+      "telefones": [
+        "98513-4340"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Wanderley",
+      "categoria": "Vidraçaria",
+      "telefones": [
+        "98917-0946",
+        "99109-0916"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Vidraçaria Nobre",
+      "categoria": "Vidraçaria",
+      "telefones": [
+        "3442-8244",
+        "3442-5411"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Vidroservice",
+      "categoria": "Vidraçaria",
+      "telefones": [
+        "98797-1057"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Thiago",
+      "categoria": "Vidraçaria",
+      "telefones": [
+        "99646-7943"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Ronildo",
+      "categoria": "Vidraçaria",
+      "telefones": [
+        "31 9817-8079"
+      ],
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "José Geraldo (Blindex)",
+      "categoria": "Vidraçaria",
+      "telefones": [
+        "31 99698-7264"
+      ],
+      "observacao": "Molas e portas.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    },
+    {
+      "nome": "Edson Molas",
+      "categoria": "Vidraçaria",
+      "telefones": [
+        "99142-7628"
+      ],
+      "observacao": "Molas e portas.",
+      "indicadoPor": {
+        "nome": "Grupo Palmares Indica"
+      }
+    }
+  ]
+}
