@@ -1,8 +1,6 @@
 import { Input, Textarea } from '@/components/ui'
-import { Campo } from './campo'
+import { Campo, CampoCategoria } from '@/pages/shared'
 import type { Rascunho } from './rascunho'
-
-const LISTA_CATEGORIAS = 'profissional-categorias'
 
 type CamposProps = {
   rascunho: Rascunho
@@ -21,20 +19,13 @@ export const Campos = ({ rascunho, categorias, onChange }: CamposProps) => (
       />
     </Campo>
 
-    <Campo id="profissional-categoria" rotulo="Categoria">
-      <Input
-        id="profissional-categoria"
-        list={LISTA_CATEGORIAS}
-        value={rascunho.categoria}
-        onChange={(event) => onChange({ categoria: event.target.value })}
-        placeholder="Ex.: Eletricista"
-      />
-      <datalist id={LISTA_CATEGORIAS}>
-        {categorias.map((categoria) => (
-          <option key={categoria} value={categoria} />
-        ))}
-      </datalist>
-    </Campo>
+    <CampoCategoria
+      id="profissional-categoria"
+      valor={rascunho.categoria}
+      categorias={categorias}
+      placeholder="Ex.: Eletricista"
+      onChange={(categoria) => onChange({ categoria })}
+    />
 
     <Campo id="profissional-telefones" rotulo="Telefones (separe por vírgula)">
       <Input

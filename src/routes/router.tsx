@@ -10,6 +10,8 @@ const ProfissionaisPage = lazy(() =>
   import('@/pages/profissionais').then((m) => ({ default: m.ProfissionaisPage })),
 )
 
+const LojasPage = lazy(() => import('@/pages/lojas').then((m) => ({ default: m.LojasPage })))
+
 export const Router = () => {
   const { user } = useAuth()
 
@@ -20,6 +22,7 @@ export const Router = () => {
       <Route element={<ProtectedRoute />}>
         <Route element={<AppLayout />}>
           <Route path="/profissionais" element={<ProfissionaisPage />} />
+          <Route path="/lojas" element={<LojasPage />} />
         </Route>
       </Route>
 

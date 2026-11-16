@@ -1,27 +1,9 @@
 import { normalizar, slug } from '@/lib/utils'
+import { porDestaque } from '@/pages/shared'
 import { analisarTelefone, somenteDigitos } from './telefone'
-import type { Categoria, Profissional, ProfissionalDados } from './types'
+import type { Profissional, ProfissionalDados } from './types'
 
 const MINIMO_DIGITOS_BUSCA = 4
-
-const porNome = (a: { nome: string }, b: { nome: string }) => a.nome.localeCompare(b.nome, 'pt-BR')
-
-export const agruparPorCategoria = (profissionais: Profissional[]): Categoria[] => {
-  const grupos = new Map<string, Categoria>()
-  profissionais.forEach((profissional) => {
-    const chave = slug(profissional.categoria)
-    const grupo = grupos.get(chave) ?? {
-      slug: chave,
-      nome: profissional.categoria,
-      profissionais: [],
-    }
-    grupo.profissionais.push(profissional)
-    grupos.set(chave, grupo)
-  })
-  return [...grupos.values()]
-    .map((grupo) => ({ ...grupo, profissionais: [...grupo.profissionais].sort(porNome) }))
-    .sort(porNome)
-}
 
 export const buscarProfissionais = (profissionais: Profissional[], busca: string) => {
   const termo = normalizar(busca)
@@ -34,7 +16,7 @@ export const buscarProfissionais = (profissionais: Profissional[], busca: string
         telefones.some((telefone) => somenteDigitos(telefone).includes(digitos))
       return texto.includes(termo) || porTelefone
     })
-    .sort(porNome)
+    .sort(porDestaque)
 }
 
 export const chaveProfissional = ({ nome, categoria, telefones }: ProfissionalDados) =>

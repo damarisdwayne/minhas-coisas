@@ -1,0 +1,345 @@
+{
+  "origem": "milhas.pro/pages/lojas.html",
+  "lojas": [
+    {
+      "nome": "Zillê Rio",
+      "categoria": "Moda praia",
+      "tipo": "Beachwear · Estampa autoral",
+      "local": "Ipanema · Rio de Janeiro · RJ",
+      "descricao": "Marca carioca de moda praia com estampas desenhadas à mão em aquarela pela própria fundadora (a Lu). Tem biquínis em vários cortes, maiôs e saídas de praia (kimonos, lenços, kaftans, crochê), além de linha casual e fitness — com proteção UV +50. Loja física em Ipanema (Rua Visconde de Pirajá 550, loja 212) e venda online pra todo o Brasil.",
+      "links": [
+        { "rotulo": "Loja online", "url": "https://www.zillerio.com.br/" },
+        { "rotulo": "@zille.rio", "url": "https://www.instagram.com/zille.rio/" }
+      ]
+    },
+    {
+      "nome": "Gringa",
+      "categoria": "Moda praia",
+      "tipo": "Beachwear · Custo-benefício",
+      "local": "Online · Brasil",
+      "descricao": "Marca brasileira de moda praia com foco em custo-benefício: biquínis em vários cortes (aro, tomara que caia, cortininha, asa delta, meia taça, hot pants), maiôs, saídas de praia e cangas. Trabalha com malha premium e forro duplo e deixa comprar conjunto ou peça avulsa. Venda 100% online, com frete grátis acima de R$ 359 e pagamento no Pix.",
+      "links": [{ "rotulo": "Loja online", "url": "https://griinga.com.br/" }]
+    },
+    {
+      "nome": "Go Bold",
+      "categoria": "Moda praia",
+      "tipo": "Beachwear · Modelagem",
+      "local": "Online · Brasil",
+      "descricao": "Marca brasileira de moda praia focada em modelagem e conforto — biquínis (com opções de bumbum cavado ou larguinho), maiôs e ponchos de saída, incluindo peças de manga longa e sem manga. Venda 100% online, com entrega rápida nas capitais de SP e RJ.",
+      "links": [
+        { "rotulo": "Loja online", "url": "https://www.goboldoficial.com.br/" },
+        { "rotulo": "@goboldoficial", "url": "https://www.instagram.com/goboldoficial/" }
+      ]
+    },
+    {
+      "nome": "Lilo Beachwear",
+      "categoria": "Moda praia",
+      "tipo": "Beachwear · Estampa & crochê",
+      "local": "Belo Horizonte · MG",
+      "descricao": "Marca mineira de moda praia com biquínis em vários cortes e nomes (Pipa, Noronha, Cannes…), maiôs e uma linha forte de saída de praia — vestidos, pareôs, cangas, chemises e peças em crochê. Tem também acessórios (chapéu, óculos, bolsa de palha). Loja física em BH e venda online pra todo o Brasil.",
+      "links": [
+        { "rotulo": "Loja online", "url": "https://lilobeachwear.com.br/" },
+        { "rotulo": "@lilobeachwear", "url": "https://www.instagram.com/lilobeachwear/" }
+      ]
+    },
+    {
+      "nome": "Madge",
+      "categoria": "Moda praia",
+      "tipo": "Beachwear · Estampa autoral",
+      "local": "Americana · SP",
+      "descricao": "Marca de moda praia com estampas autorais em impressão digital e fabricação própria em Americana (SP). Além de biquínis e maiôs, tem uma linha versátil — bodies, saídas de praia, vestidos, saias e conjuntos — que vai da praia pro dia a dia. Venda online pra todo o Brasil.",
+      "links": [
+        { "rotulo": "Loja online", "url": "https://www.madge.com.br/" },
+        { "rotulo": "@lojamadge", "url": "https://www.instagram.com/lojamadge/" }
+      ]
+    },
+    {
+      "nome": "Squat",
+      "categoria": "Moda praia",
+      "tipo": "Beachwear · Modelagem",
+      "local": "Belo Horizonte · MG",
+      "descricao": "Marca mineira de moda praia com biquínis de modelagem caprichada, maiôs, saídas de praia, peças em crochê e acessórios (bolsas, lenços). Loja física em BH e venda online pra todo o Brasil — frete grátis acima de R$ 700.",
+      "links": [
+        { "rotulo": "Loja online", "url": "https://www.squatbrand.com.br/" },
+        { "rotulo": "@squat_brand", "url": "https://www.instagram.com/squat_brand/" }
+      ]
+    },
+    {
+      "nome": "Khlun Beach Soul",
+      "categoria": "Moda praia",
+      "tipo": "Beachwear · Água & esporte",
+      "local": "Fortaleza · CE",
+      "descricao": "Marca cearense com pegada de esportes de água (kite, surf): além de biquínis e maiôs, tem wetsuits, peças com proteção UV +50 e linha sportwear. Boa pra quem vai pra destino de vento/mar. Venda online pra todo o Brasil.",
+      "links": [
+        { "rotulo": "Loja online", "url": "https://khlun.com.br/" },
+        { "rotulo": "@khlun.beachsoul", "url": "https://www.instagram.com/khlun.beachsoul/" }
+      ]
+    },
+    {
+      "nome": "Salga",
+      "categoria": "Moda praia",
+      "tipo": "Beachwear · Praia & casual",
+      "local": "Online · Brasil",
+      "descricao": "Moda praia com forte lado casual: biquínis (top, calcinha, body), mais blusas, shorts, vestidos, peças em crochê, acessórios e até Havaianas customizadas. Pra montar o look de praia e de passeio. Venda online — frete grátis acima de R$ 299.",
+      "links": [
+        { "rotulo": "Loja online", "url": "https://www.salgabrand.com.br/" },
+        { "rotulo": "@salgabrand__", "url": "https://www.instagram.com/salgabrand__/" }
+      ]
+    },
+    {
+      "nome": "Paipo Bikini",
+      "categoria": "Moda praia",
+      "tipo": "Beachwear · Slow fashion",
+      "local": "Online · Brasil",
+      "descricao": "Marca de biquíni com proposta sustentável / slow fashion: peças handmade e versáteis, pensadas pra usar tanto na praia quanto no dia a dia. Venda online e showroom com hora marcada.",
+      "links": [
+        { "rotulo": "Loja online", "url": "https://paipobikini.com/" },
+        { "rotulo": "@paipobikini", "url": "https://www.instagram.com/paipobikini/" }
+      ]
+    },
+    {
+      "nome": "Calça reta de crochê",
+      "categoria": "Achadinhos avulsos",
+      "tipo": "Riachuelo · Saída de praia",
+      "local": "Riachuelo · bege",
+      "descricao": "Calça reta de crochê bege pra usar como saída de praia por cima do biquíni — combina com as marcas de moda praia. Preço e disponibilidade mudam no site da loja; confira na hora.",
+      "imagem": "https://static.riachuelo.com.br/RCHLO/16160568002/portrait/2a5564013b1fab1ecd17700ce6fc90bcd24ce8bb.jpg?imwidth=600",
+      "links": [
+        {
+          "rotulo": "Ver produto",
+          "url": "https://www.riachuelo.com.br/saida-de-praia-calca-reta-de-croche-bege-16160568_sku_sku"
+        }
+      ]
+    },
+    {
+      "nome": "Chapéu de palha",
+      "categoria": "Achadinhos avulsos",
+      "tipo": "Riachuelo · Acessório",
+      "local": "Riachuelo · bege",
+      "descricao": "Chapéu feminino de palha com detalhe contrastante — acessório clássico pra praia e pra proteger do sol no destino. Preço e disponibilidade mudam no site da loja; confira na hora.",
+      "imagem": "https://static.riachuelo.com.br/RCHLO/16026284001/portrait/c17d0287de2e621a5b6f50f625b8c13010319a0e.jpg?imwidth=600",
+      "links": [
+        {
+          "rotulo": "Ver produto",
+          "url": "https://www.riachuelo.com.br/chapeu-feminino-de-palha-detalhe-contrastante-bege-accessori-16026284001_sku_sku"
+        }
+      ]
+    },
+    {
+      "nome": "Calça de tule falésias",
+      "categoria": "Achadinhos avulsos",
+      "tipo": "Salga · Calça de tule",
+      "local": "Salga Brand",
+      "descricao": "Calça de tule com estampa exclusiva de poá e elástico na cintura — peça leve pra usar como saída de praia ou no passeio. Da Salga, que também está em Moda praia. Preço e disponibilidade mudam no site da loja; confira na hora.",
+      "links": [
+        {
+          "rotulo": "Ver produto",
+          "url": "https://www.salgabrand.com.br/produtos/calca-de-tule-falesias-q6s6v/"
+        },
+        { "rotulo": "@salgabrand__", "url": "https://www.instagram.com/salgabrand__/" }
+      ]
+    },
+    {
+      "nome": "Casaco de pelúcia com bolsos",
+      "categoria": "Achadinhos avulsos",
+      "tipo": "C&A · Casaco",
+      "local": "C&A · marrom",
+      "descricao": "Casaco feminino de pelúcia (toque macio), modelagem reta e soltinha, com gola esportiva, botões de pressão, mangas longas e dois bolsos. Forrado por dentro — quentinho pra destino frio. Preço e disponibilidade mudam no site da loja; confira na hora.",
+      "imagem": "https://cea.vtexassets.com/arquivos/ids/59361435/Foto-0.jpg?v=639148793822970000",
+      "links": [
+        {
+          "rotulo": "Ver produto",
+          "url": "https://www.cea.com.br/casaco-feminino-de-pelucia-com-bolsos-marrom--1103940-marrom_med/p"
+        }
+      ]
+    },
+    {
+      "nome": "Trench coat Cortelle",
+      "categoria": "Achadinhos avulsos",
+      "tipo": "Renner · Trench coat",
+      "local": "Renner · cinza",
+      "descricao": "Trench coat da Cortelle (Renner), corte alongado e estruturado, com gola lapela ampla, abotoamento frontal duplo e cinto na cintura. Mistura de algodão e poliéster — peça versátil pra trabalho, viagem e look urbano. Preço e disponibilidade mudam no site da loja; confira na hora.",
+      "imagem": "https://img.lojasrenner.com.br/item/930925413/original/3.jpg",
+      "links": [
+        { "rotulo": "Ver produto", "url": "https://www.lojasrenner.com.br/p/-/A-930925376-br.lr" }
+      ]
+    },
+    {
+      "nome": "Grama",
+      "categoria": "Moda autoral",
+      "tipo": "Moda autoral · Brasileira",
+      "local": "Online · Brasil",
+      "descricao": "Marca de moda autoral com produção 100% nacional — modelagem ampla, tecido confortável e estampa exclusiva. É a loja pra quando você quer peça diferente, que não vai aparecer em ninguém no aeroporto. O preço é salgado: é peça autoral de produção pequena, e ela também é vendida em multimarcas de luxo. Vale mais garimpar uma peça-chave que fechar look inteiro.",
+      "links": [
+        { "rotulo": "Loja online", "url": "https://grama.me/" },
+        { "rotulo": "@grama__store", "url": "https://www.instagram.com/grama__store/" }
+      ]
+    },
+    {
+      "nome": "GLOWMODE",
+      "categoria": "Marcas boas dentro da Shein",
+      "tipo": "Shein · Fitness",
+      "local": "Dentro da Shein",
+      "descricao": "A linha de activewear da Shein, apontada como dupe de Lululemon — a legging FeatherFit é a mais comentada, por menos de um quinto do preço da original. A crítica recorrente nas reviews é pilling (bolinha) aparecendo rápido — bom pra viagem, não pra durar anos.",
+      "links": [{ "rotulo": "Ver loja", "url": "https://br.shein.com/pdsearch/glowmode/" }]
+    },
+    {
+      "nome": "MOTF",
+      "categoria": "Marcas boas dentro da Shein",
+      "tipo": "Shein · Premium",
+      "local": "Dentro da Shein",
+      "descricao": "A linha premium própria da Shein (é subsidiária da empresa, não loja parceira). Tecido e acabamento num patamar acima do catálogo comum — é a etiqueta pra procurar quando você quer peça de jantar/passeio e não peça de descarte.",
+      "links": [{ "rotulo": "Ver loja", "url": "https://br.shein.com/pdsearch/motf/" }]
+    },
+    {
+      "nome": "MAIJA",
+      "categoria": "Marcas boas dentro da Shein",
+      "tipo": "Shein · Boutique",
+      "local": "Dentro da Shein",
+      "descricao": "Loja parceira dentro da Shein, com vestidos, tops e conjuntos femininos. Aparece sempre nas listas de \"lojas escondidas\" da plataforma junto com MOTF e BizChic.",
+      "links": [{ "rotulo": "Ver loja", "url": "https://br.shein.com/pdsearch/maija/" }]
+    },
+    {
+      "nome": "BizChic",
+      "categoria": "Marcas boas dentro da Shein",
+      "tipo": "Shein · Boutique",
+      "local": "Dentro da Shein",
+      "descricao": "Outra boutique parceira da plataforma, na mesma leva de curadoria da MAIJA e da MOTF — moda feminina com pegada mais arrumada que o catálogo geral.",
+      "links": [{ "rotulo": "Ver loja", "url": "https://br.shein.com/pdsearch/bizchic/" }]
+    },
+    {
+      "nome": "Aveloria",
+      "categoria": "Marcas boas dentro da Shein",
+      "tipo": "Shein · Boutique",
+      "local": "Dentro da Shein",
+      "descricao": "Loja com avaliação alta (4,88) e volume grande de recompra — o indicador mais útil dentro da Shein, porque cliente que compra de novo é sinal de que a peça chegou como na foto.",
+      "links": [{ "rotulo": "Ver loja", "url": "https://br.shein.com/pdsearch/aveloria/" }]
+    },
+    {
+      "nome": "Poéselle",
+      "categoria": "Marcas boas dentro da Shein",
+      "tipo": "Shein · Tricô",
+      "local": "Dentro da Shein",
+      "descricao": "Pegada old money: cardigã de tricô, colete sem manga, conjuntinho de malha. É a que rende mais pra destino de meia-estação — Europa em setembro, por exemplo.",
+      "links": [{ "rotulo": "Ver loja", "url": "https://br.shein.com/pdsearch/poeselle/" }]
+    },
+    {
+      "nome": "ONTRE",
+      "categoria": "Marcas boas dentro da Shein",
+      "tipo": "Shein · Inverno",
+      "local": "Dentro da Shein",
+      "descricao": "Foco em peças de inverno e vestidos. Vale olhar antes de destino frio, pra não pagar casaco de estação inteira numa loja de rua.",
+      "links": [{ "rotulo": "Ver loja", "url": "https://br.shein.com/pdsearch/ontre/" }]
+    },
+    {
+      "nome": "Lavishia",
+      "categoria": "Marcas boas dentro da Shein",
+      "tipo": "Shein · Boutique",
+      "local": "Dentro da Shein · link direto pra vitrine",
+      "descricao": "Loja parceira dentro da Shein, com vitrine própria. Pelo nome ela não aparece nas listas de \"lojas escondidas\" que circulam por aí — então o link direto é o caminho mais seguro do que confiar na busca.",
+      "links": [
+        {
+          "rotulo": "Ver loja",
+          "url": "https://br.shein.com/store/home?store_code=5304639378&tab=items"
+        }
+      ]
+    },
+    {
+      "nome": "aFla",
+      "categoria": "Calçados e acessórios",
+      "tipo": "Calçados · Sandália e rasteira",
+      "local": "Bom Despacho · MG · envia pro Brasil todo",
+      "descricao": "Calçados femininos focados em sandálias, rasteiras e tamancos, com a proposta de juntar conforto e tendência. Frete grátis acima de R$ 499.",
+      "links": [
+        { "rotulo": "Loja online", "url": "https://www.useafla.com.br/" },
+        { "rotulo": "@useafla", "url": "https://www.instagram.com/useafla/" }
+      ]
+    },
+    {
+      "nome": "Amavie",
+      "categoria": "Calçados e acessórios",
+      "tipo": "Calçados · Feminino",
+      "local": "Online · Brasil",
+      "descricao": "Loja de sapatos femininos. O modelo que me chamou atenção foi a Isla: uma birken com tira ajustável, palmilha anatômica, toque aveludado e fivelas delicadas, em duas cores. Frete grátis acima de R$ 499 e cupom de 1ª compra MUNDOAMV (é o que está na bio deles; confira no checkout).",
+      "links": [
+        { "rotulo": "Loja online", "url": "https://amaviesapatos.com.br/" },
+        { "rotulo": "Post da Isla", "url": "https://www.instagram.com/p/DO7KTa-jUpt/" },
+        { "rotulo": "@amaviesapatos", "url": "https://www.instagram.com/amaviesapatos/" }
+      ]
+    },
+    {
+      "nome": "Sofih",
+      "categoria": "Calçados e acessórios",
+      "tipo": "Calçados · Tendência",
+      "local": "Online · Brasil",
+      "descricao": "Marca de sapatos que se apresenta como \"pra apaixonadas em trends & shoes\" — o foco é modelo da moda do momento. Cupom de 1ª compra LOVESOFIH (divulgado no site e na bio; confira no checkout).",
+      "links": [
+        { "rotulo": "Loja online", "url": "https://www.sofih.com.br/" },
+        { "rotulo": "Post que eu salvei", "url": "https://www.instagram.com/p/DPB1YnJjF9Y/" },
+        { "rotulo": "@sofih.com.br", "url": "https://www.instagram.com/sofih.com.br/" }
+      ]
+    },
+    {
+      "nome": "Antolie",
+      "categoria": "Calçados e acessórios",
+      "tipo": "Calçados e bolsas · Couro",
+      "local": "Online · Brasil",
+      "descricao": "Calçados e bolsas femininas em couro legítimo, linha mais premium. O que eu salvei foi a Flatform em couro Fivelas Bia (caramelo, off white e zebra) — em 11/10/2026 estava R$ 289,90, de R$ 399,90. A 1ª troca é grátis. Tem uma reclamação no Reclame Aqui de mocassim que alargou com pouco uso; vale escolher o número com cuidado.",
+      "links": [
+        {
+          "rotulo": "Ver a flatform",
+          "url": "https://www.antolie.com.br/products/flatform-em-couro-fivelas-bia-caramelo-off-white-e-animal-print-zebra?variant=50143692980526"
+        },
+        { "rotulo": "Loja online", "url": "https://www.antolie.com.br/" }
+      ]
+    },
+    {
+      "nome": "Mist",
+      "categoria": "Calçados e acessórios",
+      "tipo": "Calçados · Bota e sandália",
+      "local": "São João Batista · SC · envia pro Brasil todo",
+      "descricao": "Calçados femininos desde 2015, de uma cidade conhecida pela produção de sapato. Catálogo largo: botas e coturnos (cano curto, longo e 2 em 1), flats, papetes, rasteiras, sandálias, tamancos e plataformas. Frete grátis acima de R$ 499 e até 6x sem juros.",
+      "links": [
+        { "rotulo": "Loja online", "url": "https://www.mist.com.br/" },
+        { "rotulo": "@miststoree", "url": "https://www.instagram.com/miststoree/" }
+      ]
+    },
+    {
+      "nome": "Zip Shoes",
+      "categoria": "Calçados e acessórios",
+      "tipo": "Calçados · Sapatilha",
+      "local": "Online · numeração 34 ao 39",
+      "descricao": "Loja online focada em sapatilhas. A best-seller é a Pandora, uma sapatilha slingback de palmilha macia e tiras modernas, que a loja vende como confortável pro dia todo. Atenção: a numeração só vai do 34 ao 39. Cupom de 1ª compra bemvinda (está na bio; confira no checkout).",
+      "links": [
+        {
+          "rotulo": "Ver a Pandora",
+          "url": "https://zipshoesoficial.com.br/produtos/sapatilha-pandora-capuccino/"
+        },
+        { "rotulo": "Loja online", "url": "https://zipshoesoficial.com.br/" },
+        { "rotulo": "Vídeo da Pandora", "url": "https://www.instagram.com/p/DZFqfozgHjq/" }
+      ]
+    },
+    {
+      "nome": "Shine Factory",
+      "categoria": "Calçados e acessórios",
+      "tipo": "Acessórios · Bijus e semijoias",
+      "local": "Vale do Sereno · Nova Lima · MG",
+      "descricao": "Bijuterias e semijoias. Tem endereço no Vale do Sereno (Rodovia Januário Carneiro, 8780, sala 913) e vende pelo WhatsApp — não achei loja online própria.",
+      "links": [
+        { "rotulo": "WhatsApp / catálogo", "url": "https://msha.ke/shine.factory" },
+        { "rotulo": "@_shinefactory", "url": "https://www.instagram.com/_shinefactory/" }
+      ]
+    },
+    {
+      "nome": "Amarração que levanta e segura",
+      "categoria": "Dicas de moda",
+      "tipo": "Biquíni · Vídeo",
+      "local": "Reel da @keelianealves",
+      "descricao": "Um jeito de amarrar a parte de cima do biquíni que, nas palavras dela, \"levanta e fica bem mais seguro\". O passo a passo só aparece no vídeo — a legenda não descreve. É publi do Mercado Livre; o ID do biquíni que ela usa é KELIA2-ZV5A.",
+      "links": [
+        { "rotulo": "Ver o vídeo", "url": "https://www.instagram.com/reels/DdUk5MsvgLD/" },
+        { "rotulo": "@keelianealves", "url": "https://www.instagram.com/keelianealves/" }
+      ]
+    }
+  ]
+}

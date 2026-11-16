@@ -1,22 +1,14 @@
+import type { DadosDe, ItemCatalogo } from '@/pages/shared'
+
 export type Indicacao = {
   nome: string
   telefone?: string
 }
 
-export type Profissional = {
-  id: string
-  nome: string
-  categoria: string
+export type Profissional = ItemCatalogo & {
   telefones: string[]
   observacao?: string
   indicadoPor?: Indicacao
-  criadoEm: string
 }
 
-export type ProfissionalDados = Omit<Profissional, 'id' | 'criadoEm'>
-
-export type Categoria = {
-  slug: string
-  nome: string
-  profissionais: Profissional[]
-}
+export type ProfissionalDados = DadosDe<Profissional>

@@ -1,14 +1,5 @@
-import { opcional } from '@/lib/utils'
+import { ehRegistro, ehTexto, lerLista, textoOpcional } from '@/pages/shared'
 import type { Indicacao, ProfissionalDados } from './types'
-
-type Registro = Record<string, unknown>
-
-const ehRegistro = (valor: unknown): valor is Registro =>
-  typeof valor === 'object' && valor !== null
-
-const ehTexto = (valor: unknown): valor is string => typeof valor === 'string'
-
-const textoOpcional = (valor: unknown) => (ehTexto(valor) ? opcional(valor) : undefined)
 
 const indicacaoDe = (valor: unknown): Indicacao | undefined => {
   if (!ehRegistro(valor)) return undefined
@@ -31,14 +22,4 @@ const dadosDe = (item: unknown): ProfissionalDados | undefined => {
   }
 }
 
-export const lerListaImportada = (conteudo: string): ProfissionalDados[] | undefined => {
-  try {
-    const json: unknown = JSON.parse(conteudo)
-    const itens = ehRegistro(json) ? json.profissionais : json
-    if (!Array.isArray(itens)) return undefined
-    const lista = itens.flatMap((item) => dadosDe(item) ?? [])
-    return lista.length ? lista : undefined
-  } catch {
-    return undefined
-  }
-}
+export const lerProfissionais = (conteudo: string) => lerLista(conteudo, 'profissionais', dadosDe)

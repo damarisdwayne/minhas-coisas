@@ -2,23 +2,26 @@ import { useRef, type ChangeEvent } from 'react'
 import { Upload } from 'lucide-react'
 import { toast } from 'sonner'
 import { Button, Input } from '@/components/ui'
-import { lerListaImportada } from '../importacao'
-import type { ProfissionalDados } from '../types'
 
-type ImportarListaProps = {
+type ImportarListaProps<D> = {
   variant?: 'outline' | 'ghost'
-  onImportar: (lista: ProfissionalDados[]) => void
+  ler: (conteudo: string) => D[] | undefined
+  onImportar: (lista: D[]) => void
 }
 
-export const ImportarLista = ({ variant = 'outline', onImportar }: ImportarListaProps) => {
+export const ImportarLista = <D,>({
+  variant = 'outline',
+  ler,
+  onImportar,
+}: ImportarListaProps<D>) => {
   const inputRef = useRef<HTMLInputElement>(null)
 
   const aoEscolher = async (event: ChangeEvent<HTMLInputElement>) => {
     const arquivo = event.target.files?.[0]
     event.target.value = ''
     if (!arquivo) return
-    const lista = lerListaImportada(await arquivo.text())
-    if (!lista) return void toast.error('Arquivo inválido: esperava uma lista de profissionais')
+    const lista = ler(await arquivo.text())
+    if (!lista) return void toast.error('Arquivo inválido: não encontrei uma lista para importar')
     onImportar(lista)
   }
 

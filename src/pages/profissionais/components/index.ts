@@ -1,5 +1,2 @@
-export { CabecalhoLista } from './cabecalho-lista'
-export { ImportarLista } from './importar-lista'
-export { ListaCategorias } from './lista-categorias'
-export { ListaProfissionais } from './lista-profissionais'
+export { ProfissionalCard } from './profissional-card'
 export { ProfissionalForm } from './profissional-form'

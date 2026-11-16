@@ -1,11 +1,17 @@
-import { ChevronRight } from 'lucide-react'
+import { ChevronRight, Star } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import { Badge } from '@/components/ui'
-import type { Categoria } from '../types'
+import type { Categoria, ItemCatalogo } from '../types'
 
-export const ListaCategorias = ({ categorias }: { categorias: Categoria[] }) => (
+type ListaCategoriasProps<T extends ItemCatalogo> = {
+  categorias: Categoria<T>[]
+}
+
+export const ListaCategorias = <T extends ItemCatalogo>({
+  categorias,
+}: ListaCategoriasProps<T>) => (
   <ul className="grid gap-2 sm:grid-cols-2">
-    {categorias.map(({ slug, nome, profissionais }) => (
+    {categorias.map(({ slug, nome, itens }) => (
       <li key={slug}>
         <Link
           to={{ search: `?categoria=${slug}` }}
@@ -14,7 +20,14 @@ export const ListaCategorias = ({ categorias }: { categorias: Categoria[] }) => 
           <span className="min-w-0 flex-1 truncate text-sm font-medium text-foreground">
             {nome}
           </span>
-          <Badge variant="secondary">{profissionais.length}</Badge>
+          {itens.some(({ destacado }) => destacado) && (
+            <Star
+              size={14}
+              className="shrink-0 fill-warning text-warning"
+              aria-label="Tem destacados"
+            />
+          )}
+          <Badge variant="secondary">{itens.length}</Badge>
           <ChevronRight size={16} className="shrink-0 text-muted-foreground" />
         </Link>
       </li>
